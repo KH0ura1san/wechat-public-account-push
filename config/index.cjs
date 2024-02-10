@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: '777b7766326dad4d3bcf2b4c39ec2615',
 
   PROVINCE: '浙江',
-  CITY: '安吉',
+  CITY: '湖州',
 
   USERS: [
     {
@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oAvms6LgH1hGoGVSvzHbfvDmBgkY',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '3oBnmPFr9pbj2pd7eY81bUPro0f1qsqoAkk19KGU_no',
+      useTemplateId: 'eyD1fUUad0G9tx5ZuhUD_0ZWBi-hGMkYNIStIc8qlGc',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
       festivals: [
@@ -47,7 +47,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '3oBnmPFr9pbj2pd7eY81bUPro0f1qsqoAkk19KGU_no',
+  CALLBACK_TEMPLATE_ID: 'eyD1fUUad0G9tx5ZuhUD_0ZWBi-hGMkYNIStIc8qlGc',
 
   CALLBACK_USERS: [
     {
