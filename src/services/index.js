@@ -1049,7 +1049,7 @@ const sendMessageByPushDeer = async (user, templateId, wxTemplateData) => {
     }
   }
 
-  const url = 'https://api2.pushdeer.com/message/push'
+  const url = 'http://47.107.146.112:8800//message/push'
 
   // 发送消息
   const res = await axios.post(url, {
