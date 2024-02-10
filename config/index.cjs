@@ -10,7 +10,8 @@ const USER_CONFIG = {
     "IS_SHOW_COLOR":true,
     "USERS":[
       {
-        "name":"佳宏宝儿","id":"85f709eedc7c84bbd7cc112c95e576ff",
+        "name":"佳宏宝儿",
+        "id":"PDU1TU1G4OTRBftfCPTC0HgKx0FlIUEjyLMUc",
         "useTemplateId":"0001",
         "province":"浙江",
         "city":"湖州",
