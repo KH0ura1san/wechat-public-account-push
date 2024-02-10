@@ -6,7 +6,7 @@
  * 自行添加属性，以支持更多个性化功能
  */
 const USER_CONFIG = {
-    // 我们在一起已经有xxxx天了的配置
+    USE_PASSAGE: 'push-deer',
     "IS_SHOW_COLOR":true,
     "USERS":[
       {
