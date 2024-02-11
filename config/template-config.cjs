@@ -5,22 +5,14 @@ const TEMPLATE_CONFIG = [
     title: '我可爱的佳宏宝~',
     desc: `
       今天是{{date.DATA}}
-      ---
       {{holidaytts.DATA}}
-      ---
       你现在在{{city.DATA}}
-      ---
       今天的天气 {{weather.DATA}}
-      ---
       气温(最高/最低):{{max_temperature.DATA}} / {{min_temperature.DATA}}
-      ---
       {{comprehensive_horoscope.DATA}}
-      ---
       今天是我们相识的第{{meet_day.DATA}}天
       我们已经在一起{{love_day.DATA}}天啦
-      ---
       {{birthday_message.DATA}}
-      ---
       {{moment_copyrighting.DATA}}
     `
   },
