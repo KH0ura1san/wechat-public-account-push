@@ -16,7 +16,8 @@ const TEMPLATE_CONFIG = [
       ---
       {{comprehensive_horoscope.DATA}}
       ---
-      今天是我们相识的第{{love_day.DATA}}天
+      今天是我们相识的第{{meet_day.DATA}}天
+      我们已经在一起{{love_day.DATA}}天啦
       ---
       {{birthday_message.DATA}}
       ---
