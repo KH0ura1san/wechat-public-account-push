@@ -19,13 +19,13 @@ const USER_CONFIG = {
         "horoscopeDateType":"今日",
         "openUrl":"https://shuangxunian.github.io/",
         "festivals":[
-          {"type":"生日","name":"宝儿的生日","date":"01-10","year":"2001"},
-          {"type":"节日","name":"恋爱纪念日","date":"02-28","year":"2021"},
-          {"type":"节日","name":"相识纪念日","date":"11-03","year":"2020"}
+          {"type":"生日","name":"佳宏宝","date":"01-10","year":"2001"},
+          {"type":"生日","name":"威威宝","date":"06-06","year":"2002"},
         ],
         customizedDateList: [
           // 在一起的日子
           { keyword: 'love_day', date: '2021-02-28' },
+          { keyword: 'meet_day', date: '2020-11-03' },
         ],
       "SWITCH":
         {"weather":true,
