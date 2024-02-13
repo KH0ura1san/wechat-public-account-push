@@ -6,12 +6,12 @@
  * 自行添加属性，以支持更多个性化功能
  */
 const USER_CONFIG = {
-    USE_PASSAGE: 'push-deer',
+    USE_PASSAGE: 'server-chan',
     "IS_SHOW_COLOR":true,
     "USERS":[
       {
         "name":"佳宏宝儿",
-        "id":"PDU1TU1G4OTRBftfCPTC0HgKx0FlIUEjyLMUc",
+        "id":"SCT239231TIajSF6A5XhC1bOoeKDfm66yL",
         "useTemplateId":"0001",
         "province":"浙江",
         "city":"湖州",
