@@ -10,10 +10,10 @@ const TEMPLATE_CONFIG = [
       今天的天气 {{weather.DATA}}\n
       气温(最高/最低):{{max_temperature.DATA}} / {{min_temperature.DATA}}\n
       要注意穿衣喔，不要着凉了\n
-      {{comprehensive_horoscope.DATA}}\n
       今天是我们相识的第{{meet_day.DATA}}天\n
       我们已经在一起{{love_day.DATA}}天啦\n
-      {{birthday_message.DATA}}\n
+      {{comprehensive_horoscope.DATA}}\n
+      {{birthday_message.DATA}}\n\n
       {{moment_copyrighting.DATA}}\n
     `
   },
