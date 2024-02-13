@@ -38,6 +38,36 @@ const USER_CONFIG = {
          "poetry":false,
          "horoscope":true,
          "birthdayMessage":true}
+      },
+      {
+        "name":"佳宏宝儿",
+        "id":"SCT239247TZj08yPlWRzEeP4gCkraPuksh",
+        "useTemplateId":"0001",
+        "province":"浙江",
+        "city":"湖州",
+        "horoscopeDate":"01-10",
+        "horoscopeDateType":"今日",
+        "openUrl":"https://shuangxunian.github.io/",
+        "festivals":[
+          {"type":"生日","name":"佳宏宝","date":"01-10","year":"2001"},
+          {"type":"生日","name":"威威宝","date":"06-06","year":"2002"},
+        ],
+        customizedDateList: [
+          // 在一起的日子
+          { keyword: 'love_day', date: '2021-02-28' },
+          { keyword: 'meet_day', date: '2020-11-03' },
+        ],
+      "SWITCH":
+        {"weather":true,
+         "holidaytts":true,
+         "CIBA":false,
+         "oneTalk":false,
+         "earthyLoveWords":true,
+         "momentCopyrighting":false,
+         "poisonChickenSoup":false,
+         "poetry":false,
+         "horoscope":true,
+         "birthdayMessage":true}
       }]}
 
 
