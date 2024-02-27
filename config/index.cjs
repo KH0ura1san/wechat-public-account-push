@@ -14,7 +14,7 @@ const USER_CONFIG = {
         "id":"SCT239231TIajSF6A5XhC1bOoeKDfm66yL",
         "useTemplateId":"0001",
         "province":"江西",
-        "city":"南昌",
+        "city":"赣州",
         "horoscopeDate":"01-10",
         "horoscopeDateType":"今日",
         "openUrl":"https://shuangxunian.github.io/",
